@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindo! ⭐
 
-<!--
-**CalixtoSARA/CalixtoSARA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sara
 
-Here are some ideas to get you started:
+-Eu sou estudante de tecologia
+-Tenho 15 anos
+-Estudo no Antônio Florentino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📪
+
+00001126696687sp@al.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/Nq5Uvu5HLywAAAAi/barbie-light-gif.gif)
+
